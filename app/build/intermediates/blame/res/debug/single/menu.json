@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/minimous/AndroidStudioProjects/ServoControl/app/build/intermediates/res/merged/debug/menu/menu_servo_control.xml",
+        "source": "/home/minimous/AndroidStudioProjects/ServoControl/app/src/main/res/menu/menu_servo_control.xml"
+    },
+    {
+        "merged": "/home/minimous/AndroidStudioProjects/ServoControl/app/build/intermediates/res/merged/debug/menu/menu_device_list.xml",
+        "source": "/home/minimous/AndroidStudioProjects/ServoControl/app/src/main/res/menu/menu_device_list.xml"
+    }
+]
